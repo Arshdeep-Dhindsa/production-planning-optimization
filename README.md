@@ -73,7 +73,7 @@ jupyter notebook optimization_model.ipynb
 ```
 
 ### 7. Run all cells
-In the notebook menu choose **Kernel → Restart & Run All**. Run it fully once before sharing or submitting so the outputs and charts are saved.
+In the notebook menu choose **Kernel → Restart & Run All**.
 
 ## Expected Results
 
